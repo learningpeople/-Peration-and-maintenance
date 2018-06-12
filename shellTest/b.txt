@@ -1,0 +1,7 @@
+总用量 20
+-rw-rw-r-- 1 sa sa   156  1月 18 17:47 a.txt
+-rw-rw-r-- 1 sa sa     0  1月 18 17:47 b.txt
+-rw-rw-r-- 1 sa sa  3973  1月 18 17:46 test2.sh
+-rw-rw-r-- 1 sa sa 10702  1月 18 17:39 test.sh
+<html><head><title>Hello World</title></head>
+<body>Welcome to the world of regexp!</body></html>
